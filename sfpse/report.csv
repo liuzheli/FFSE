@@ -1,0 +1,119 @@
+update	140	8459
+db_consume	7225
+pureUpdate	1234
+search	42	5227	database	140
+db_consume	5726
+pureSearch	-499
+update	140	2090
+db_consume	812
+pureUpdate	1278
+search	42	4793	database	140
+db_consume	11752
+pureSearch	-6959
+update	140	2157
+db_consume	904
+pureUpdate	1253
+search	42	5100	database	140
+db_consume	5450
+pureSearch	-350
+update	140	2484
+db_consume	1133
+pureUpdate	1351
+search	42	4883	database	140
+db_consume	12042
+pureSearch	-7159
+update	140	2810
+db_consume	1429
+pureUpdate	1381
+search	42	5036	database	140
+db_consume	12269
+pureSearch	-7233
+update	1400	25353
+db_consume	16824
+pureUpdate	8529
+search	420	4179179	database	1400
+db_consume	4145795
+pureSearch	33384
+update	1400	11993
+db_consume	4964
+pureUpdate	7029
+search	420	4130626	database	1400
+db_consume	4098073
+pureSearch	32553
+update	1400	11427
+db_consume	4696
+pureUpdate	6731
+search	420	4058106	database	1400
+db_consume	4026648
+pureSearch	31458
+update	1400	11340
+db_consume	4602
+pureUpdate	6738
+search	420	4266593	database	1400
+db_consume	4233774
+pureSearch	32819
+update	1400	11755
+db_consume	4501
+pureUpdate	7254
+search	420	4156008	database	1400
+db_consume	4120356
+pureSearch	35652
+update	14000	108544
+db_consume	46100
+pureUpdate	62444
+update	14000	102537
+db_consume	40253
+pureUpdate	62284
+search	1680	1507144854	database	14000
+db_consume	1505667968
+pureSearch	1476886
+update	14000	117227
+db_consume	45521
+pureUpdate	71706
+search	1680	1501442842	database	14000
+db_consume	1499774417
+pureSearch	1668425
+update	14000	107366
+db_consume	41694
+pureUpdate	65672
+search	1680	1476047372	database	14000
+db_consume	1474748214
+pureSearch	1299158
+update	14000	107852
+db_consume	41809
+pureUpdate	66043
+search	1680	1516220523	database	14000
+db_consume	1514850453
+pureSearch	1370070
+update	14000	112606
+db_consume	44020
+pureUpdate	68586
+search	1680	1497354513	database	14000
+db_consume	1495788018
+pureSearch	1566495
+update	140000	1421824
+db_consume	699370
+pureUpdate	722454
+listnum	50	925
+listnum	50	802
+listnum	50	6
+listnum	100	4
+listnum	150	3
+listnum	200	3
+listnum	250	3
+listnum	300	9
+listnum	350	3
+listnum	400	4
+listnum	450	3
+listnum	50	6
+listnum	100	4
+listnum	150	4
+listnum	200	4
+listnum	250	4
+listnum	300	4
+listnum	350	4
+listnum	400	4
+listnum	450	3
+search	420	4106888	database	1400
+db_consume	4068562
+pureSearch	38326

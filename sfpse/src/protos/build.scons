@@ -1,0 +1,8 @@
+Import('*')
+
+proto_out = env.Protoc([], 'sfpse.proto',
+       PROTOPATH=[Dir('.')], PROTOCPPOUT=Dir('..').abspath)
+
+out = proto_out
+
+Return('out')

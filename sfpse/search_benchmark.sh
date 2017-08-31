@@ -1,0 +1,17 @@
+#!/bin/bash 
+
+base=10
+num=5
+result=1
+#./sfpse_cmpbench -r 10 -n 0 -t s
+
+for i in `seq 1 3`;
+do
+	result=$(($result * $base))
+	for j in `seq 0 4`;
+	do
+		
+		./sfpse_cmpbench -r $result -n $j -t s
+	done
+
+done
